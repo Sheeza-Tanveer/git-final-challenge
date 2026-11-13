@@ -1,2 +1,3 @@
 My Git Final Challenge
 Learning Git and GitHub
+Practising branches and merging
